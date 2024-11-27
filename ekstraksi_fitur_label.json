@@ -1,0 +1,3874 @@
+[
+    {
+        "Gambar": 1,
+        "EAR": 1.8437803164446587,
+        "MAR": 15.610672340198022,
+        "Nose X": 727,
+        "Nose Y": 627,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 2,
+        "EAR": 1.810895616818351,
+        "MAR": 5.498902731114504,
+        "Nose X": 296,
+        "Nose Y": 583,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 3,
+        "EAR": 2.2539656283506444,
+        "MAR": 13.249729953619882,
+        "Nose X": 486,
+        "Nose Y": 520,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 4,
+        "EAR": 1.9042687731667804,
+        "MAR": 3.804835825011194,
+        "Nose X": 319,
+        "Nose Y": 582,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 5,
+        "EAR": 2.555757079188198,
+        "MAR": 2.1157306861881473,
+        "Nose X": 551,
+        "Nose Y": 501,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 6,
+        "EAR": 1.9596989442665667,
+        "MAR": 15.935744713231403,
+        "Nose X": 368,
+        "Nose Y": 527,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 7,
+        "EAR": 2.647410501866604,
+        "MAR": 11.00096799572888,
+        "Nose X": 495,
+        "Nose Y": 582,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 8,
+        "EAR": 2.055819087636717,
+        "MAR": 11.947682794008683,
+        "Nose X": 609,
+        "Nose Y": 589,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 9,
+        "EAR": 2.7243589157450665,
+        "MAR": 53.3255912558559,
+        "Nose X": 547,
+        "Nose Y": 550,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 10,
+        "EAR": 1.9738280390773264,
+        "MAR": 6.996863787202081,
+        "Nose X": 725,
+        "Nose Y": 631,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 11,
+        "EAR": 2.0531396070764716,
+        "MAR": 22.063162584209078,
+        "Nose X": 544,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 12,
+        "EAR": 2.095741152705659,
+        "MAR": 23.23666027375591,
+        "Nose X": 490,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 13,
+        "EAR": 2.149466167067911,
+        "MAR": 9.112464478194154,
+        "Nose X": 489,
+        "Nose Y": 572,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 15,
+        "EAR": 2.2526318869643838,
+        "MAR": 23.108167420275635,
+        "Nose X": 485,
+        "Nose Y": 515,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 16,
+        "EAR": 2.193958713188765,
+        "MAR": 4.6369572043360785,
+        "Nose X": 292,
+        "Nose Y": 577,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 17,
+        "EAR": 1.960178345497475,
+        "MAR": 66.53033084633485,
+        "Nose X": 460,
+        "Nose Y": 568,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 18,
+        "EAR": 2.9261796857604976,
+        "MAR": 24.74376359512279,
+        "Nose X": 504,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 19,
+        "EAR": 2.1944512489646035,
+        "MAR": 6.340374543948786,
+        "Nose X": 380,
+        "Nose Y": 632,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 20,
+        "EAR": 2.515638666062904,
+        "MAR": 52.79142179251326,
+        "Nose X": 491,
+        "Nose Y": 568,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 21,
+        "EAR": 1.7989612268086923,
+        "MAR": 9.60247008788598,
+        "Nose X": 741,
+        "Nose Y": 634,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 22,
+        "EAR": 1.7671030534951013,
+        "MAR": 5.6124978570734845,
+        "Nose X": 312,
+        "Nose Y": 543,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 23,
+        "EAR": 2.117345868027958,
+        "MAR": 106.00749625691316,
+        "Nose X": 469,
+        "Nose Y": 582,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 24,
+        "EAR": 2.1347358356905035,
+        "MAR": 11.881884461291678,
+        "Nose X": 743,
+        "Nose Y": 641,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 25,
+        "EAR": 1.832965766733698,
+        "MAR": 8.659707539548043,
+        "Nose X": 482,
+        "Nose Y": 543,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 26,
+        "EAR": 1.729196427311749,
+        "MAR": 8.285346907176935,
+        "Nose X": 296,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 27,
+        "EAR": 1.744931888510517,
+        "MAR": 27.96803814768305,
+        "Nose X": 346,
+        "Nose Y": 537,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 28,
+        "EAR": 2.955343502927837,
+        "MAR": 2.3233288059786537,
+        "Nose X": 505,
+        "Nose Y": 483,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 29,
+        "EAR": 2.3465638411723417,
+        "MAR": 51.92263594917244,
+        "Nose X": 487,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 30,
+        "EAR": 2.424353599918062,
+        "MAR": Infinity,
+        "Nose X": 501,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 31,
+        "EAR": 2.065693479474901,
+        "MAR": 6.801759889147304,
+        "Nose X": 482,
+        "Nose Y": 527,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 32,
+        "EAR": 1.689577751149761,
+        "MAR": 5.333498055808104,
+        "Nose X": 287,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 33,
+        "EAR": 2.0501303827445794,
+        "MAR": 7.6349551772857165,
+        "Nose X": 492,
+        "Nose Y": 557,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 34,
+        "EAR": 1.9369774171922125,
+        "MAR": 20.405496637660622,
+        "Nose X": 337,
+        "Nose Y": 545,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 35,
+        "EAR": 2.1594241919634745,
+        "MAR": 66.44736174416241,
+        "Nose X": 520,
+        "Nose Y": 571,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 36,
+        "EAR": 1.52317160513883,
+        "MAR": 33.37485723883282,
+        "Nose X": 331,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 37,
+        "EAR": 2.0029850472369386,
+        "MAR": 12.947277300069905,
+        "Nose X": 501,
+        "Nose Y": 535,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 38,
+        "EAR": 2.4094328709930104,
+        "MAR": 2.6275009177419864,
+        "Nose X": 519,
+        "Nose Y": 507,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 39,
+        "EAR": 2.369682120680382,
+        "MAR": 8.495072115934553,
+        "Nose X": 510,
+        "Nose Y": 559,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 40,
+        "EAR": 2.231766486491033,
+        "MAR": 16.480848212508608,
+        "Nose X": 600,
+        "Nose Y": 506,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 41,
+        "EAR": 1.8184537584484648,
+        "MAR": 5.109125224548307,
+        "Nose X": 499,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 42,
+        "EAR": 2.2755262818828648,
+        "MAR": 25.453835600105847,
+        "Nose X": 498,
+        "Nose Y": 593,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 43,
+        "EAR": 1.9422331070126047,
+        "MAR": 8.474423548984689,
+        "Nose X": 507,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 44,
+        "EAR": 2.379961638681963,
+        "MAR": 15.946736760500253,
+        "Nose X": 467,
+        "Nose Y": 568,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 45,
+        "EAR": 1.914016979712128,
+        "MAR": 4.187153771032686,
+        "Nose X": 596,
+        "Nose Y": 492,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 46,
+        "EAR": 3.344451572999549,
+        "MAR": 20.434501942018198,
+        "Nose X": 521,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 47,
+        "EAR": 1.791393126531892,
+        "MAR": 7.811199025894862,
+        "Nose X": 711,
+        "Nose Y": 651,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 49,
+        "EAR": 2.2828549334781956,
+        "MAR": 25.285585436002126,
+        "Nose X": 445,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 50,
+        "EAR": 2.009550323560181,
+        "MAR": 19.229557559347743,
+        "Nose X": 485,
+        "Nose Y": 558,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 51,
+        "EAR": 2.3160187367877576,
+        "MAR": 32.22221826745033,
+        "Nose X": 464,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 52,
+        "EAR": 2.2319958250281884,
+        "MAR": 11.98649777926489,
+        "Nose X": 294,
+        "Nose Y": 581,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 53,
+        "EAR": 1.9867003944610544,
+        "MAR": 16.60696676215928,
+        "Nose X": 581,
+        "Nose Y": 520,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 54,
+        "EAR": 2.7305421534367444,
+        "MAR": 2.4797651994814243,
+        "Nose X": 529,
+        "Nose Y": 564,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 55,
+        "EAR": 3.537647515037501,
+        "MAR": 6.22755185758943,
+        "Nose X": 500,
+        "Nose Y": 452,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 56,
+        "EAR": 1.9122918890046732,
+        "MAR": 15.255957972792688,
+        "Nose X": 700,
+        "Nose Y": 656,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 57,
+        "EAR": 1.7675752729892946,
+        "MAR": 5.561392846395231,
+        "Nose X": 293,
+        "Nose Y": 586,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 58,
+        "EAR": 2.2956908889159404,
+        "MAR": 11.860065620398585,
+        "Nose X": 449,
+        "Nose Y": 518,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 59,
+        "EAR": 2.3029811568183467,
+        "MAR": 33.647521910784434,
+        "Nose X": 530,
+        "Nose Y": 583,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 60,
+        "EAR": 2.5343759187884785,
+        "MAR": 11.86785577364956,
+        "Nose X": 518,
+        "Nose Y": 536,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 61,
+        "EAR": 2.2637797274115687,
+        "MAR": 34.54601543956682,
+        "Nose X": 494,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 62,
+        "EAR": 2.0561469747997676,
+        "MAR": 18.264019593095615,
+        "Nose X": 725,
+        "Nose Y": 639,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 63,
+        "EAR": 1.9120993994377322,
+        "MAR": 7.277165332437743,
+        "Nose X": 285,
+        "Nose Y": 589,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 64,
+        "EAR": 2.133518027708072,
+        "MAR": 27.033239152744564,
+        "Nose X": 461,
+        "Nose Y": 545,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 65,
+        "EAR": 3.1961808834959875,
+        "MAR": 3.0462990203274525,
+        "Nose X": 529,
+        "Nose Y": 580,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 66,
+        "EAR": 1.9628251519703939,
+        "MAR": 27.25145775463329,
+        "Nose X": 503,
+        "Nose Y": 554,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 67,
+        "EAR": 2.9789948480462325,
+        "MAR": 6.402317794362749,
+        "Nose X": 483,
+        "Nose Y": 469,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 68,
+        "EAR": 2.662792983967962,
+        "MAR": 2.499788393251697,
+        "Nose X": 530,
+        "Nose Y": 564,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 69,
+        "EAR": 1.9176578833366085,
+        "MAR": 7.346287957074064,
+        "Nose X": 336,
+        "Nose Y": 517,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 70,
+        "EAR": 2.2711557759551826,
+        "MAR": 17.280032386200716,
+        "Nose X": 486,
+        "Nose Y": 564,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 71,
+        "EAR": 1.9259185544189412,
+        "MAR": 10.68589248308937,
+        "Nose X": 329,
+        "Nose Y": 533,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 72,
+        "EAR": 2.1509973202968915,
+        "MAR": 7.30778815429821,
+        "Nose X": 276,
+        "Nose Y": 595,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 73,
+        "EAR": 2.5141655493505075,
+        "MAR": 9.228278909235346,
+        "Nose X": 486,
+        "Nose Y": 578,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 74,
+        "EAR": 2.7180128494559286,
+        "MAR": Infinity,
+        "Nose X": 477,
+        "Nose Y": 568,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 75,
+        "EAR": 2.1644797614795923,
+        "MAR": 71.76015161033943,
+        "Nose X": 537,
+        "Nose Y": 548,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 76,
+        "EAR": 2.4950957315630444,
+        "MAR": 2.4320825475278416,
+        "Nose X": 597,
+        "Nose Y": 511,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 77,
+        "EAR": 2.3015884479334883,
+        "MAR": 48.22186399445968,
+        "Nose X": 499,
+        "Nose Y": 576,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 78,
+        "EAR": 2.274558651157892,
+        "MAR": 31.501941225055933,
+        "Nose X": 458,
+        "Nose Y": 553,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 79,
+        "EAR": 3.2244905849022922,
+        "MAR": 11.520717637204749,
+        "Nose X": 465,
+        "Nose Y": 518,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 80,
+        "EAR": 2.339133851896637,
+        "MAR": 12.321936169941942,
+        "Nose X": 493,
+        "Nose Y": 542,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 81,
+        "EAR": 2.4574186141279024,
+        "MAR": 17.589689690680455,
+        "Nose X": 559,
+        "Nose Y": 577,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 82,
+        "EAR": 2.2407984931194624,
+        "MAR": 8.751795230794835,
+        "Nose X": 491,
+        "Nose Y": 567,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 83,
+        "EAR": 2.220425981776332,
+        "MAR": 31.395029214659193,
+        "Nose X": 446,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 84,
+        "EAR": 2.1280554732071515,
+        "MAR": 24.798057657189897,
+        "Nose X": 536,
+        "Nose Y": 550,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 85,
+        "EAR": 2.2299353572822964,
+        "MAR": 8.066594591610793,
+        "Nose X": 507,
+        "Nose Y": 511,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 86,
+        "EAR": 2.370192815188707,
+        "MAR": 26.704252847289535,
+        "Nose X": 438,
+        "Nose Y": 519,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 87,
+        "EAR": 1.6794941461039543,
+        "MAR": 19.42731925117075,
+        "Nose X": 597,
+        "Nose Y": 523,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 88,
+        "EAR": 2.6563377307858334,
+        "MAR": 2.2812790561481875,
+        "Nose X": 621,
+        "Nose Y": 493,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 89,
+        "EAR": 1.7439088517525936,
+        "MAR": 17.19424180296626,
+        "Nose X": 289,
+        "Nose Y": 567,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 90,
+        "EAR": 2.4023308381738713,
+        "MAR": 7.628965334995573,
+        "Nose X": 658,
+        "Nose Y": 606,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 91,
+        "EAR": 3.038818316122313,
+        "MAR": 1.887827706819579,
+        "Nose X": 541,
+        "Nose Y": 522,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 92,
+        "EAR": 2.0186211654433945,
+        "MAR": 12.590519429199645,
+        "Nose X": 470,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 93,
+        "EAR": 1.9498189031324138,
+        "MAR": 5.944699514532642,
+        "Nose X": 289,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 94,
+        "EAR": 2.847726226273881,
+        "MAR": 26.534821822551507,
+        "Nose X": 605,
+        "Nose Y": 587,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 95,
+        "EAR": 2.0292410361952085,
+        "MAR": 33.977839241100185,
+        "Nose X": 545,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 96,
+        "EAR": 2.045683901209194,
+        "MAR": 41.647047854485685,
+        "Nose X": 517,
+        "Nose Y": 558,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 97,
+        "EAR": 2.4781716307557646,
+        "MAR": 1.9013320877066815,
+        "Nose X": 562,
+        "Nose Y": 490,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 98,
+        "EAR": 1.6661096038994645,
+        "MAR": 13.523270509473646,
+        "Nose X": 320,
+        "Nose Y": 549,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 99,
+        "EAR": 2.7368598536694853,
+        "MAR": 11.156163281758628,
+        "Nose X": 539,
+        "Nose Y": 545,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 100,
+        "EAR": 2.053911152562293,
+        "MAR": 3.7889416945457777,
+        "Nose X": 290,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 101,
+        "EAR": 2.3266174061819154,
+        "MAR": 14.098777790683522,
+        "Nose X": 528,
+        "Nose Y": 575,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 102,
+        "EAR": 2.170243940137913,
+        "MAR": 37.99565732474627,
+        "Nose X": 529,
+        "Nose Y": 587,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 103,
+        "EAR": 1.8506029627720748,
+        "MAR": 19.177993210000494,
+        "Nose X": 487,
+        "Nose Y": 589,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 104,
+        "EAR": 2.0800441379137915,
+        "MAR": 6.8284868841472806,
+        "Nose X": 732,
+        "Nose Y": 633,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 105,
+        "EAR": 2.340532934066556,
+        "MAR": 4.4522607338668125,
+        "Nose X": 611,
+        "Nose Y": 496,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 106,
+        "EAR": 2.5010337742239175,
+        "MAR": 17.134173416098346,
+        "Nose X": 453,
+        "Nose Y": 529,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 107,
+        "EAR": 2.455188619994382,
+        "MAR": 26.002052860378505,
+        "Nose X": 481,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 108,
+        "EAR": 2.8652183349427913,
+        "MAR": 22.306649091953382,
+        "Nose X": 519,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 109,
+        "EAR": 1.7609058751391455,
+        "MAR": 6.9724921866937075,
+        "Nose X": 345,
+        "Nose Y": 532,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 110,
+        "EAR": 2.387577991464254,
+        "MAR": 34.588415998113994,
+        "Nose X": 506,
+        "Nose Y": 557,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 111,
+        "EAR": 2.1791013828539785,
+        "MAR": 50.433288708851734,
+        "Nose X": 510,
+        "Nose Y": 555,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 112,
+        "EAR": 1.8815643826634374,
+        "MAR": 9.670916518775966,
+        "Nose X": 291,
+        "Nose Y": 580,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 113,
+        "EAR": 2.0055110506786686,
+        "MAR": 6.664974173031963,
+        "Nose X": 305,
+        "Nose Y": 587,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 114,
+        "EAR": 3.0037541577324287,
+        "MAR": 6.014621725433485,
+        "Nose X": 475,
+        "Nose Y": 668,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 115,
+        "EAR": 1.7445094936769354,
+        "MAR": 14.121627466601728,
+        "Nose X": 711,
+        "Nose Y": 645,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 116,
+        "EAR": 2.4502693916758944,
+        "MAR": 7.703002263666088,
+        "Nose X": 514,
+        "Nose Y": 557,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 117,
+        "EAR": 2.0219765386409567,
+        "MAR": 22.393893634081564,
+        "Nose X": 730,
+        "Nose Y": 634,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 118,
+        "EAR": 2.0900683738691495,
+        "MAR": 8.505917828310288,
+        "Nose X": 733,
+        "Nose Y": 636,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 119,
+        "EAR": 2.99948142563212,
+        "MAR": 3.27350402363095,
+        "Nose X": 526,
+        "Nose Y": 571,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 120,
+        "EAR": 2.281949830480526,
+        "MAR": 65.8077296120138,
+        "Nose X": 516,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 121,
+        "EAR": 3.029011252995543,
+        "MAR": 6.722710368156595,
+        "Nose X": 288,
+        "Nose Y": 585,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 122,
+        "EAR": 1.8695552353783604,
+        "MAR": 3.5924342936093536,
+        "Nose X": 334,
+        "Nose Y": 540,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 123,
+        "EAR": 2.224388101840563,
+        "MAR": 17.62559236347346,
+        "Nose X": 733,
+        "Nose Y": 636,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 125,
+        "EAR": 2.3851081257321107,
+        "MAR": 2.743756527861391,
+        "Nose X": 556,
+        "Nose Y": 542,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 126,
+        "EAR": 2.185397086189549,
+        "MAR": 33.697091726153864,
+        "Nose X": 492,
+        "Nose Y": 561,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 127,
+        "EAR": 1.8058320186349497,
+        "MAR": 5.908942294996274,
+        "Nose X": 577,
+        "Nose Y": 517,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 128,
+        "EAR": 2.476007287886811,
+        "MAR": 34.632195422551135,
+        "Nose X": 468,
+        "Nose Y": 523,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 129,
+        "EAR": 1.7363205098340273,
+        "MAR": 7.7065877853040226,
+        "Nose X": 288,
+        "Nose Y": 597,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 130,
+        "EAR": 2.1918964561249688,
+        "MAR": 15.614159931039358,
+        "Nose X": 499,
+        "Nose Y": 510,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 131,
+        "EAR": 2.154904964658539,
+        "MAR": 34.82535406015479,
+        "Nose X": 505,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 132,
+        "EAR": 2.207765504342466,
+        "MAR": 6.281491276281121,
+        "Nose X": 327,
+        "Nose Y": 593,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 133,
+        "EAR": 2.2541254844329472,
+        "MAR": 101.13343390061685,
+        "Nose X": 515,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 134,
+        "EAR": 3.1656210533740436,
+        "MAR": 8.43849579608375,
+        "Nose X": 529,
+        "Nose Y": 592,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 135,
+        "EAR": 2.0334840973889587,
+        "MAR": 9.540992010309926,
+        "Nose X": 471,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 136,
+        "EAR": 1.8816149789921188,
+        "MAR": 4.975717078898106,
+        "Nose X": 589,
+        "Nose Y": 519,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 137,
+        "EAR": 2.108684623975675,
+        "MAR": 31.512097741790555,
+        "Nose X": 475,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 138,
+        "EAR": 2.2561715446559587,
+        "MAR": 11.813921770565205,
+        "Nose X": 507,
+        "Nose Y": 571,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 139,
+        "EAR": 2.0106064844279627,
+        "MAR": 10.802697515022832,
+        "Nose X": 529,
+        "Nose Y": 578,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 140,
+        "EAR": 2.009502209075926,
+        "MAR": 21.438198869012542,
+        "Nose X": 543,
+        "Nose Y": 574,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 141,
+        "EAR": 2.781033519488423,
+        "MAR": 2.306994984004003,
+        "Nose X": 517,
+        "Nose Y": 568,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 142,
+        "EAR": 2.344992748275838,
+        "MAR": 62.94619353325515,
+        "Nose X": 435,
+        "Nose Y": 525,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 143,
+        "EAR": 4.162670050420457,
+        "MAR": 29.044864380626564,
+        "Nose X": 552,
+        "Nose Y": 500,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 144,
+        "EAR": 2.175412583838005,
+        "MAR": 18.79294261181086,
+        "Nose X": 666,
+        "Nose Y": 615,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 145,
+        "EAR": 1.9723967164601093,
+        "MAR": 47.63610099485065,
+        "Nose X": 480,
+        "Nose Y": 545,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 146,
+        "EAR": 2.222460458096754,
+        "MAR": 16.584269104091746,
+        "Nose X": 477,
+        "Nose Y": 560,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 147,
+        "EAR": 2.999348151110908,
+        "MAR": 1.780315076813605,
+        "Nose X": 546,
+        "Nose Y": 513,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 148,
+        "EAR": 2.7081836662431837,
+        "MAR": 2.2096512740108136,
+        "Nose X": 507,
+        "Nose Y": 468,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 149,
+        "EAR": 2.2547320692640787,
+        "MAR": 19.311584605760697,
+        "Nose X": 345,
+        "Nose Y": 542,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 150,
+        "EAR": 2.091958953307005,
+        "MAR": 14.479419528259685,
+        "Nose X": 741,
+        "Nose Y": 638,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 151,
+        "EAR": 2.739650555165241,
+        "MAR": 18.572957747602263,
+        "Nose X": 479,
+        "Nose Y": 574,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 153,
+        "EAR": 1.7441647793909931,
+        "MAR": 6.465869546077517,
+        "Nose X": 326,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 154,
+        "EAR": 2.2900282852363305,
+        "MAR": 12.930396428424896,
+        "Nose X": 478,
+        "Nose Y": 588,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 155,
+        "EAR": 2.7403426778044526,
+        "MAR": 3.219562303350693,
+        "Nose X": 563,
+        "Nose Y": 453,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 156,
+        "EAR": 2.3663468979050952,
+        "MAR": 4.861289242613909,
+        "Nose X": 466,
+        "Nose Y": 576,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 157,
+        "EAR": 2.321697595252389,
+        "MAR": 24.646895691714416,
+        "Nose X": 467,
+        "Nose Y": 533,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 158,
+        "EAR": 2.4599187986029936,
+        "MAR": 44.96506921411982,
+        "Nose X": 470,
+        "Nose Y": 532,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 159,
+        "EAR": 2.1174321865352086,
+        "MAR": 37.72850643390646,
+        "Nose X": 507,
+        "Nose Y": 563,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 160,
+        "EAR": 2.218481477153984,
+        "MAR": 32.9010566580274,
+        "Nose X": 537,
+        "Nose Y": 565,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 161,
+        "EAR": 2.923802792552901,
+        "MAR": 2.471321640443636,
+        "Nose X": 518,
+        "Nose Y": 558,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 162,
+        "EAR": 3.226673605398097,
+        "MAR": 11.431055483469926,
+        "Nose X": 496,
+        "Nose Y": 583,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 163,
+        "EAR": 2.797839238935473,
+        "MAR": 3.7503292441908953,
+        "Nose X": 457,
+        "Nose Y": 609,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 164,
+        "EAR": 2.101476016539943,
+        "MAR": 9.59294552804739,
+        "Nose X": 291,
+        "Nose Y": 582,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 165,
+        "EAR": 2.569095985954634,
+        "MAR": 18.676352715170452,
+        "Nose X": 533,
+        "Nose Y": 596,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 166,
+        "EAR": 2.5507159950889218,
+        "MAR": 34.09694913593071,
+        "Nose X": 474,
+        "Nose Y": 564,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 167,
+        "EAR": 2.218263897587567,
+        "MAR": 19.960280355709006,
+        "Nose X": 642,
+        "Nose Y": 610,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 169,
+        "EAR": 2.1964850818569666,
+        "MAR": 97.36487817816715,
+        "Nose X": 490,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 170,
+        "EAR": 2.205713508993382,
+        "MAR": 10.488748840306263,
+        "Nose X": 596,
+        "Nose Y": 508,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 171,
+        "EAR": 2.7244474271668437,
+        "MAR": 13.953015824658046,
+        "Nose X": 546,
+        "Nose Y": 568,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 172,
+        "EAR": 3.1773168481880014,
+        "MAR": 2.548953293516753,
+        "Nose X": 541,
+        "Nose Y": 543,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 173,
+        "EAR": 1.9816235406102356,
+        "MAR": 5.830260948504448,
+        "Nose X": 610,
+        "Nose Y": 510,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 174,
+        "EAR": 2.4518299277525863,
+        "MAR": 2.623116377941322,
+        "Nose X": 619,
+        "Nose Y": 490,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 175,
+        "EAR": 2.9207623534338794,
+        "MAR": 32.93724959802449,
+        "Nose X": 567,
+        "Nose Y": 578,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 177,
+        "EAR": 3.255673333829555,
+        "MAR": 17.70341653970054,
+        "Nose X": 587,
+        "Nose Y": 581,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 178,
+        "EAR": 1.7943056762113838,
+        "MAR": 10.893195177626408,
+        "Nose X": 338,
+        "Nose Y": 589,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 179,
+        "EAR": 2.8878127352581497,
+        "MAR": 2.585306922443426,
+        "Nose X": 545,
+        "Nose Y": 543,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 180,
+        "EAR": 3.2059278964343165,
+        "MAR": 14.729870854617399,
+        "Nose X": 538,
+        "Nose Y": 576,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 181,
+        "EAR": 1.6243886280459094,
+        "MAR": 5.336235757012879,
+        "Nose X": 335,
+        "Nose Y": 591,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 182,
+        "EAR": 2.3828211396994057,
+        "MAR": 10.959844361170912,
+        "Nose X": 475,
+        "Nose Y": 557,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 183,
+        "EAR": 2.156872157623635,
+        "MAR": 13.890644687264357,
+        "Nose X": 470,
+        "Nose Y": 553,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 184,
+        "EAR": 2.0834800092205796,
+        "MAR": 22.775812733339272,
+        "Nose X": 549,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 185,
+        "EAR": 2.194237024059535,
+        "MAR": 31.396306260728153,
+        "Nose X": 726,
+        "Nose Y": 636,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 186,
+        "EAR": 1.909070413277763,
+        "MAR": 8.222989788980765,
+        "Nose X": 281,
+        "Nose Y": 562,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 187,
+        "EAR": 2.4872603751058096,
+        "MAR": 48.24107571849189,
+        "Nose X": 547,
+        "Nose Y": 579,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 188,
+        "EAR": 1.762853845887828,
+        "MAR": 12.06177402198276,
+        "Nose X": 347,
+        "Nose Y": 531,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 189,
+        "EAR": 2.648777884238201,
+        "MAR": 72.8517908005268,
+        "Nose X": 493,
+        "Nose Y": 572,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 190,
+        "EAR": 1.937808031121432,
+        "MAR": 4.117305484287412,
+        "Nose X": 617,
+        "Nose Y": 483,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 191,
+        "EAR": 1.9431579698785177,
+        "MAR": 8.642575628155193,
+        "Nose X": 727,
+        "Nose Y": 628,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 192,
+        "EAR": 1.8390102566478972,
+        "MAR": 69.28308028120264,
+        "Nose X": 505,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 193,
+        "EAR": 1.815153347931708,
+        "MAR": 5.29701911264495,
+        "Nose X": 735,
+        "Nose Y": 638,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 194,
+        "EAR": 2.8993443590926304,
+        "MAR": 13.346185675068918,
+        "Nose X": 518,
+        "Nose Y": 566,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 195,
+        "EAR": 2.556208361471409,
+        "MAR": 24.783702869391036,
+        "Nose X": 457,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 196,
+        "EAR": 2.0129211049664844,
+        "MAR": 8.887379517286588,
+        "Nose X": 488,
+        "Nose Y": 548,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 197,
+        "EAR": 2.3828583740271068,
+        "MAR": Infinity,
+        "Nose X": 458,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 198,
+        "EAR": 1.8826118855659988,
+        "MAR": 11.647398574326585,
+        "Nose X": 595,
+        "Nose Y": 525,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 199,
+        "EAR": 2.244683601236569,
+        "MAR": 16.71276104987255,
+        "Nose X": 491,
+        "Nose Y": 504,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 200,
+        "EAR": 2.5407810807216435,
+        "MAR": 5.870413302394526,
+        "Nose X": 484,
+        "Nose Y": 573,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 201,
+        "EAR": 2.6742619160395797,
+        "MAR": 37.77504556531342,
+        "Nose X": 530,
+        "Nose Y": 596,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 202,
+        "EAR": 2.5622936760181183,
+        "MAR": 15.24131771694606,
+        "Nose X": 441,
+        "Nose Y": 526,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 203,
+        "EAR": 2.3107343787220764,
+        "MAR": 14.563870636582406,
+        "Nose X": 465,
+        "Nose Y": 560,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 204,
+        "EAR": 2.423518671180231,
+        "MAR": 1.847848161978913,
+        "Nose X": 498,
+        "Nose Y": 450,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 205,
+        "EAR": 2.4512257987062025,
+        "MAR": 7.494334358886338,
+        "Nose X": 531,
+        "Nose Y": 550,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 206,
+        "EAR": 2.8328112939781325,
+        "MAR": 12.465308277144885,
+        "Nose X": 503,
+        "Nose Y": 570,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 207,
+        "EAR": 2.415689428276462,
+        "MAR": 6.789012454506515,
+        "Nose X": 476,
+        "Nose Y": 509,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 208,
+        "EAR": 1.9698956875721814,
+        "MAR": 24.79451387043173,
+        "Nose X": 460,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 209,
+        "EAR": 2.477335110302936,
+        "MAR": 23.846454319740577,
+        "Nose X": 535,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 210,
+        "EAR": 2.012740664450776,
+        "MAR": 47.940702710646484,
+        "Nose X": 502,
+        "Nose Y": 555,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 211,
+        "EAR": 1.9860283886293122,
+        "MAR": 53.29770400857609,
+        "Nose X": 488,
+        "Nose Y": 567,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 212,
+        "EAR": 2.788468956680572,
+        "MAR": 5.568020090159059,
+        "Nose X": 550,
+        "Nose Y": 540,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 213,
+        "EAR": 1.9340703614837307,
+        "MAR": 9.483048049719011,
+        "Nose X": 319,
+        "Nose Y": 604,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 214,
+        "EAR": 3.021003177263183,
+        "MAR": 6.378234241236935,
+        "Nose X": 472,
+        "Nose Y": 511,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 215,
+        "EAR": 2.086317403149291,
+        "MAR": 14.581050081773233,
+        "Nose X": 534,
+        "Nose Y": 595,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 216,
+        "EAR": 2.3657808486808563,
+        "MAR": 15.508402472145931,
+        "Nose X": 477,
+        "Nose Y": 526,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 217,
+        "EAR": 2.392463298683116,
+        "MAR": 21.584623578227212,
+        "Nose X": 499,
+        "Nose Y": 550,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 218,
+        "EAR": 2.026963880131284,
+        "MAR": 103.46299985787556,
+        "Nose X": 516,
+        "Nose Y": 568,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 219,
+        "EAR": 2.227900642746021,
+        "MAR": 8.237378390376966,
+        "Nose X": 728,
+        "Nose Y": 637,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 220,
+        "EAR": 2.3416852527532743,
+        "MAR": 7.426146834702482,
+        "Nose X": 721,
+        "Nose Y": 632,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 221,
+        "EAR": 1.8194831966221847,
+        "MAR": 4.960837142608288,
+        "Nose X": 291,
+        "Nose Y": 584,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 222,
+        "EAR": 2.154428891261071,
+        "MAR": 11.7109039647958,
+        "Nose X": 460,
+        "Nose Y": 566,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 223,
+        "EAR": 2.0538435468349983,
+        "MAR": 9.948297365015641,
+        "Nose X": 489,
+        "Nose Y": 509,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 224,
+        "EAR": 1.9640604286064667,
+        "MAR": 6.852167805801781,
+        "Nose X": 729,
+        "Nose Y": 635,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 225,
+        "EAR": 2.7891076386011138,
+        "MAR": 7.117076560401959,
+        "Nose X": 481,
+        "Nose Y": 572,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 226,
+        "EAR": 1.9892659758896576,
+        "MAR": 16.75358219826925,
+        "Nose X": 532,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 227,
+        "EAR": 2.32178233015591,
+        "MAR": 4.979572882905908,
+        "Nose X": 556,
+        "Nose Y": 515,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 228,
+        "EAR": 1.8110174942075812,
+        "MAR": 4.601647664352958,
+        "Nose X": 289,
+        "Nose Y": 561,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 229,
+        "EAR": 1.7312760006161731,
+        "MAR": 3.314939783875569,
+        "Nose X": 300,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 230,
+        "EAR": 3.28256993376295,
+        "MAR": 4.31722989628765,
+        "Nose X": 542,
+        "Nose Y": 562,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 231,
+        "EAR": 1.8478671717943405,
+        "MAR": 9.1651122828784,
+        "Nose X": 732,
+        "Nose Y": 637,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 232,
+        "EAR": 2.941362962224174,
+        "MAR": 45.69253996678306,
+        "Nose X": 484,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 233,
+        "EAR": 2.1195092864873746,
+        "MAR": 3.7156484383246235,
+        "Nose X": 324,
+        "Nose Y": 593,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 234,
+        "EAR": 2.2182090618555326,
+        "MAR": 17.95126306621817,
+        "Nose X": 498,
+        "Nose Y": 562,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 235,
+        "EAR": 2.8623387677128997,
+        "MAR": 2.3501534060668066,
+        "Nose X": 517,
+        "Nose Y": 503,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 236,
+        "EAR": 3.2286094957284464,
+        "MAR": 2.2669845898777297,
+        "Nose X": 519,
+        "Nose Y": 559,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 237,
+        "EAR": 2.123498680691854,
+        "MAR": 6.769664875922167,
+        "Nose X": 501,
+        "Nose Y": 576,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 238,
+        "EAR": 2.8392429357886053,
+        "MAR": 17.005291184562058,
+        "Nose X": 456,
+        "Nose Y": 575,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 239,
+        "EAR": 1.9017695129609504,
+        "MAR": 20.75864328875174,
+        "Nose X": 542,
+        "Nose Y": 580,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 240,
+        "EAR": 1.6113291094820887,
+        "MAR": 39.10879211540022,
+        "Nose X": 333,
+        "Nose Y": 544,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 241,
+        "EAR": 2.8586620499479714,
+        "MAR": 6.303626839152728,
+        "Nose X": 526,
+        "Nose Y": 590,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 242,
+        "EAR": 1.7912858696680343,
+        "MAR": 29.77163794637159,
+        "Nose X": 331,
+        "Nose Y": 532,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 243,
+        "EAR": 2.343339468153869,
+        "MAR": 26.4462254770713,
+        "Nose X": 530,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 244,
+        "EAR": 1.958414916205745,
+        "MAR": 7.026007664274991,
+        "Nose X": 316,
+        "Nose Y": 543,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 245,
+        "EAR": 2.650941800636381,
+        "MAR": 2.4258260570260486,
+        "Nose X": 554,
+        "Nose Y": 537,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 246,
+        "EAR": 2.87702807889198,
+        "MAR": 2.903348072756522,
+        "Nose X": 513,
+        "Nose Y": 559,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 247,
+        "EAR": 2.546978612900156,
+        "MAR": 24.96626221277617,
+        "Nose X": 501,
+        "Nose Y": 600,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 248,
+        "EAR": 2.331878768179893,
+        "MAR": 25.57972324703104,
+        "Nose X": 495,
+        "Nose Y": 588,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 250,
+        "EAR": 2.0260739483593966,
+        "MAR": 50.425290223457125,
+        "Nose X": 588,
+        "Nose Y": 499,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 252,
+        "EAR": 2.0907140242678732,
+        "MAR": 46.67183369396868,
+        "Nose X": 502,
+        "Nose Y": 602,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 253,
+        "EAR": 1.8948806126005637,
+        "MAR": 15.156494666748337,
+        "Nose X": 480,
+        "Nose Y": 544,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 254,
+        "EAR": 1.97139083810326,
+        "MAR": 13.438395414814533,
+        "Nose X": 296,
+        "Nose Y": 588,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 255,
+        "EAR": 2.069247979885208,
+        "MAR": 19.55409936119851,
+        "Nose X": 341,
+        "Nose Y": 605,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 256,
+        "EAR": 1.82663916073024,
+        "MAR": 25.924999873274558,
+        "Nose X": 505,
+        "Nose Y": 557,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 257,
+        "EAR": 2.080067997479227,
+        "MAR": 3.611304463106902,
+        "Nose X": 279,
+        "Nose Y": 587,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 258,
+        "EAR": 2.0013698133913618,
+        "MAR": 51.008893938602476,
+        "Nose X": 520,
+        "Nose Y": 564,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 259,
+        "EAR": 2.088359273169389,
+        "MAR": 36.387407789190185,
+        "Nose X": 476,
+        "Nose Y": 565,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 260,
+        "EAR": 2.060239708296912,
+        "MAR": 8.66986615497618,
+        "Nose X": 499,
+        "Nose Y": 556,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 261,
+        "EAR": 1.9510550141659035,
+        "MAR": 4.474364578354327,
+        "Nose X": 735,
+        "Nose Y": 629,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 262,
+        "EAR": 2.7579136468115033,
+        "MAR": 20.335705220452642,
+        "Nose X": 508,
+        "Nose Y": 576,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 263,
+        "EAR": 1.9261648363440262,
+        "MAR": 53.33688213755783,
+        "Nose X": 542,
+        "Nose Y": 571,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 264,
+        "EAR": 2.4456003678617915,
+        "MAR": 2.3419857518617575,
+        "Nose X": 626,
+        "Nose Y": 496,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 265,
+        "EAR": 2.5420484319756937,
+        "MAR": 18.388482901084437,
+        "Nose X": 522,
+        "Nose Y": 570,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 266,
+        "EAR": 2.249259929908629,
+        "MAR": 13.566502746140541,
+        "Nose X": 772,
+        "Nose Y": 665,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 267,
+        "EAR": 1.905013647050993,
+        "MAR": 4.704391684290159,
+        "Nose X": 278,
+        "Nose Y": 574,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 268,
+        "EAR": 2.623758741780601,
+        "MAR": 2.1391686936182888,
+        "Nose X": 541,
+        "Nose Y": 546,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 269,
+        "EAR": 2.143879373412669,
+        "MAR": Infinity,
+        "Nose X": 717,
+        "Nose Y": 648,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 270,
+        "EAR": 2.3056228154488796,
+        "MAR": 20.895203354403122,
+        "Nose X": 453,
+        "Nose Y": 563,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 271,
+        "EAR": 2.2902057265490265,
+        "MAR": 11.866382928774897,
+        "Nose X": 620,
+        "Nose Y": 487,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 272,
+        "EAR": 1.8364131510841228,
+        "MAR": 5.612719360355502,
+        "Nose X": 601,
+        "Nose Y": 517,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 273,
+        "EAR": 2.4310928736295896,
+        "MAR": 26.970842830600613,
+        "Nose X": 611,
+        "Nose Y": 502,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 274,
+        "EAR": 3.0964780842604,
+        "MAR": 5.959500739691545,
+        "Nose X": 525,
+        "Nose Y": 566,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 275,
+        "EAR": 2.214973226756148,
+        "MAR": 11.890532735724713,
+        "Nose X": 476,
+        "Nose Y": 517,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 276,
+        "EAR": 1.914606433215508,
+        "MAR": 9.651412155722225,
+        "Nose X": 593,
+        "Nose Y": 527,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 277,
+        "EAR": 2.3388401616777355,
+        "MAR": 23.724629469804288,
+        "Nose X": 501,
+        "Nose Y": 554,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 278,
+        "EAR": 2.070057953411217,
+        "MAR": 22.723609762393387,
+        "Nose X": 427,
+        "Nose Y": 518,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 279,
+        "EAR": 1.90758386604349,
+        "MAR": 5.474742826866111,
+        "Nose X": 296,
+        "Nose Y": 509,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 280,
+        "EAR": 3.6056961742620617,
+        "MAR": 2.2648315583972733,
+        "Nose X": 512,
+        "Nose Y": 497,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 281,
+        "EAR": 1.8174583815537129,
+        "MAR": 22.86099575409532,
+        "Nose X": 368,
+        "Nose Y": 527,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 282,
+        "EAR": 2.1805600799329543,
+        "MAR": 16.957018210408467,
+        "Nose X": 459,
+        "Nose Y": 570,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 283,
+        "EAR": 1.8552277411808122,
+        "MAR": 11.515029103425622,
+        "Nose X": 705,
+        "Nose Y": 650,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 285,
+        "EAR": 2.777841116605535,
+        "MAR": 17.528375431786184,
+        "Nose X": 471,
+        "Nose Y": 567,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 286,
+        "EAR": 1.7357843972086155,
+        "MAR": 8.910871438270021,
+        "Nose X": 327,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 287,
+        "EAR": 2.2387699168620463,
+        "MAR": 23.070296238233848,
+        "Nose X": 677,
+        "Nose Y": 611,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 288,
+        "EAR": 1.8787697113009019,
+        "MAR": 8.569269792877032,
+        "Nose X": 489,
+        "Nose Y": 571,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 289,
+        "EAR": 2.1007783308387245,
+        "MAR": 21.599203052731465,
+        "Nose X": 473,
+        "Nose Y": 538,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 290,
+        "EAR": 1.6732189396542065,
+        "MAR": 6.14725221461609,
+        "Nose X": 273,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 291,
+        "EAR": 2.0965368293635853,
+        "MAR": 53.120061342440316,
+        "Nose X": 507,
+        "Nose Y": 551,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 292,
+        "EAR": 3.2620261385967666,
+        "MAR": 2.0492412047103965,
+        "Nose X": 545,
+        "Nose Y": 512,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 293,
+        "EAR": 2.7997044865671628,
+        "MAR": 7.850072132643233,
+        "Nose X": 477,
+        "Nose Y": 572,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 294,
+        "EAR": 2.6175492697922547,
+        "MAR": 10.953718750954813,
+        "Nose X": 467,
+        "Nose Y": 499,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 295,
+        "EAR": 2.2541475318126754,
+        "MAR": 35.89194257640981,
+        "Nose X": 447,
+        "Nose Y": 530,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 296,
+        "EAR": 2.4582429016328184,
+        "MAR": 29.99140153819545,
+        "Nose X": 480,
+        "Nose Y": 532,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 297,
+        "EAR": 2.3202760789066756,
+        "MAR": 15.990677886706505,
+        "Nose X": 487,
+        "Nose Y": 595,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 298,
+        "EAR": 2.140779863660736,
+        "MAR": 15.58946338355375,
+        "Nose X": 476,
+        "Nose Y": 565,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 299,
+        "EAR": 2.0658900649659095,
+        "MAR": 11.509868616405958,
+        "Nose X": 283,
+        "Nose Y": 593,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 300,
+        "EAR": 1.9206753129292857,
+        "MAR": 11.225061729443118,
+        "Nose X": 541,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 301,
+        "EAR": 3.0592393903654447,
+        "MAR": 34.07483034763544,
+        "Nose X": 492,
+        "Nose Y": 571,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 302,
+        "EAR": 1.924074655177754,
+        "MAR": 104.26756693829489,
+        "Nose X": 589,
+        "Nose Y": 565,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 303,
+        "EAR": 2.038781537897889,
+        "MAR": 78.06818287116953,
+        "Nose X": 497,
+        "Nose Y": 582,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 304,
+        "EAR": 2.015999536569551,
+        "MAR": 10.430325328167894,
+        "Nose X": 368,
+        "Nose Y": 525,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 305,
+        "EAR": 2.612845174922742,
+        "MAR": 20.396939603921016,
+        "Nose X": 293,
+        "Nose Y": 573,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 306,
+        "EAR": 2.128784682249017,
+        "MAR": 13.859655886951725,
+        "Nose X": 477,
+        "Nose Y": 560,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 308,
+        "EAR": 1.8200746909363978,
+        "MAR": 5.342133603262903,
+        "Nose X": 327,
+        "Nose Y": 535,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 309,
+        "EAR": 1.8998623440397575,
+        "MAR": 9.814496366611607,
+        "Nose X": 344,
+        "Nose Y": 514,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 310,
+        "EAR": 2.2197531956543988,
+        "MAR": 21.311393089153373,
+        "Nose X": 729,
+        "Nose Y": 629,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 311,
+        "EAR": 2.049782928496842,
+        "MAR": 6.659026762389617,
+        "Nose X": 293,
+        "Nose Y": 572,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 312,
+        "EAR": 2.182345197158668,
+        "MAR": 17.67664778507663,
+        "Nose X": 534,
+        "Nose Y": 552,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 313,
+        "EAR": 2.1324910164441957,
+        "MAR": 23.465592436270807,
+        "Nose X": 785,
+        "Nose Y": 672,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 314,
+        "EAR": 2.1337686707792756,
+        "MAR": 36.792393756812224,
+        "Nose X": 539,
+        "Nose Y": 583,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 315,
+        "EAR": 2.3175305327842297,
+        "MAR": 19.708067028555984,
+        "Nose X": 504,
+        "Nose Y": 585,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 316,
+        "EAR": 2.3917861006441266,
+        "MAR": 17.70909543296676,
+        "Nose X": 465,
+        "Nose Y": 620,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 317,
+        "EAR": 1.6263309320473738,
+        "MAR": 4.904340161897191,
+        "Nose X": 315,
+        "Nose Y": 598,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 318,
+        "EAR": 2.0230079894999853,
+        "MAR": 47.96808434196072,
+        "Nose X": 503,
+        "Nose Y": 553,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 319,
+        "EAR": 2.0666732017214766,
+        "MAR": 19.91516133191107,
+        "Nose X": 452,
+        "Nose Y": 562,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 320,
+        "EAR": 2.224017906868236,
+        "MAR": 110.14237947726976,
+        "Nose X": 485,
+        "Nose Y": 564,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 321,
+        "EAR": 2.1189830745138436,
+        "MAR": 77.40806112511365,
+        "Nose X": 490,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 322,
+        "EAR": 2.011007020944908,
+        "MAR": 93.23626587312856,
+        "Nose X": 500,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 323,
+        "EAR": 3.016524110370067,
+        "MAR": 25.80413164298927,
+        "Nose X": 510,
+        "Nose Y": 558,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 325,
+        "EAR": 2.004221841951672,
+        "MAR": 3.635059107077285,
+        "Nose X": 299,
+        "Nose Y": 545,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 326,
+        "EAR": 3.1698904823992113,
+        "MAR": 6.120497217687101,
+        "Nose X": 527,
+        "Nose Y": 559,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 327,
+        "EAR": 3.2006760650805237,
+        "MAR": 3.2361066028192536,
+        "Nose X": 542,
+        "Nose Y": 546,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 328,
+        "EAR": 2.287607148347577,
+        "MAR": 20.18395030977515,
+        "Nose X": 456,
+        "Nose Y": 510,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 329,
+        "EAR": 1.8342013375321566,
+        "MAR": 8.670105783751389,
+        "Nose X": 338,
+        "Nose Y": 530,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 330,
+        "EAR": 2.069642235850014,
+        "MAR": 73.59052163179292,
+        "Nose X": 498,
+        "Nose Y": 576,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 331,
+        "EAR": 1.9758884508278616,
+        "MAR": 18.216892996663766,
+        "Nose X": 433,
+        "Nose Y": 531,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 333,
+        "EAR": 2.8267824971796287,
+        "MAR": 6.575953558385199,
+        "Nose X": 528,
+        "Nose Y": 554,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 334,
+        "EAR": 2.5890596286588505,
+        "MAR": 11.174751414676761,
+        "Nose X": 505,
+        "Nose Y": 503,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 335,
+        "EAR": 3.4642038113752895,
+        "MAR": 3.6163811007943316,
+        "Nose X": 549,
+        "Nose Y": 446,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 336,
+        "EAR": 2.7334248039177624,
+        "MAR": 2.2056563294171023,
+        "Nose X": 597,
+        "Nose Y": 511,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 337,
+        "EAR": 2.057529324933052,
+        "MAR": 6.059249828622561,
+        "Nose X": 317,
+        "Nose Y": 582,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 338,
+        "EAR": 2.289019279135145,
+        "MAR": 40.47116811927007,
+        "Nose X": 322,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 339,
+        "EAR": 2.099308435733205,
+        "MAR": 14.378436839713075,
+        "Nose X": 476,
+        "Nose Y": 530,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 340,
+        "EAR": 1.6391618852399727,
+        "MAR": 22.63970177266575,
+        "Nose X": 303,
+        "Nose Y": 589,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 341,
+        "EAR": 3.6401443982096153,
+        "MAR": 28.06073484699345,
+        "Nose X": 538,
+        "Nose Y": 573,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 342,
+        "EAR": 2.4696845864687114,
+        "MAR": 13.21798656159959,
+        "Nose X": 535,
+        "Nose Y": 544,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 343,
+        "EAR": 1.8673584194284816,
+        "MAR": 21.805107328906868,
+        "Nose X": 538,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 344,
+        "EAR": 2.1450569189209086,
+        "MAR": 21.76146038374489,
+        "Nose X": 528,
+        "Nose Y": 581,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 345,
+        "EAR": 2.743352405883302,
+        "MAR": 2.292373890372014,
+        "Nose X": 561,
+        "Nose Y": 538,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 346,
+        "EAR": 2.103246741215516,
+        "MAR": 13.604715085236656,
+        "Nose X": 541,
+        "Nose Y": 575,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 347,
+        "EAR": 3.8955379911609933,
+        "MAR": 2.256271989436429,
+        "Nose X": 526,
+        "Nose Y": 545,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 348,
+        "EAR": 1.9988482323554333,
+        "MAR": 14.132859382997115,
+        "Nose X": 497,
+        "Nose Y": 556,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 349,
+        "EAR": 2.072214034178069,
+        "MAR": 9.414697693627112,
+        "Nose X": 708,
+        "Nose Y": 653,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 350,
+        "EAR": 2.117722128746843,
+        "MAR": 26.920815507158945,
+        "Nose X": 522,
+        "Nose Y": 555,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 351,
+        "EAR": 2.2253366816043023,
+        "MAR": 15.549608135426729,
+        "Nose X": 545,
+        "Nose Y": 574,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 352,
+        "EAR": 2.284436705684925,
+        "MAR": 31.213306467704196,
+        "Nose X": 465,
+        "Nose Y": 535,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 353,
+        "EAR": 2.0127470964304472,
+        "MAR": 15.890124789276085,
+        "Nose X": 460,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 354,
+        "EAR": 2.215994109486404,
+        "MAR": 18.81904997428476,
+        "Nose X": 559,
+        "Nose Y": 567,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 355,
+        "EAR": 1.9044390970167484,
+        "MAR": 6.75020789643372,
+        "Nose X": 310,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 356,
+        "EAR": 2.8769845195894916,
+        "MAR": 73.92134138232545,
+        "Nose X": 469,
+        "Nose Y": 586,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 357,
+        "EAR": 2.1936721607466443,
+        "MAR": 4.991769242100541,
+        "Nose X": 330,
+        "Nose Y": 550,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 358,
+        "EAR": 2.8117172615747146,
+        "MAR": 1.8222987980100507,
+        "Nose X": 558,
+        "Nose Y": 497,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 359,
+        "EAR": 2.1667310755391442,
+        "MAR": 11.591032069280887,
+        "Nose X": 502,
+        "Nose Y": 557,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 360,
+        "EAR": 2.0533316482652886,
+        "MAR": 16.975403486801387,
+        "Nose X": 464,
+        "Nose Y": 567,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 361,
+        "EAR": 1.9324163248680186,
+        "MAR": 15.837910251154938,
+        "Nose X": 494,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 362,
+        "EAR": 2.720465272274363,
+        "MAR": 15.846436958966063,
+        "Nose X": 488,
+        "Nose Y": 564,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 363,
+        "EAR": 2.108474718817491,
+        "MAR": 31.42398939791961,
+        "Nose X": 499,
+        "Nose Y": 557,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 364,
+        "EAR": 1.9743898051936282,
+        "MAR": 3.982583154609023,
+        "Nose X": 712,
+        "Nose Y": 652,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 365,
+        "EAR": 2.281722575074625,
+        "MAR": 11.204767637391958,
+        "Nose X": 435,
+        "Nose Y": 524,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 366,
+        "EAR": 2.0382167711219434,
+        "MAR": 95.2892106018778,
+        "Nose X": 497,
+        "Nose Y": 583,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 367,
+        "EAR": 2.0227106934142842,
+        "MAR": 16.45791444136148,
+        "Nose X": 492,
+        "Nose Y": 576,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 368,
+        "EAR": 1.9812343689902057,
+        "MAR": 9.375089052676884,
+        "Nose X": 326,
+        "Nose Y": 536,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 369,
+        "EAR": 2.197377833383209,
+        "MAR": 8.658062327183892,
+        "Nose X": 445,
+        "Nose Y": 512,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 371,
+        "EAR": 2.546060898783554,
+        "MAR": 16.68110837271853,
+        "Nose X": 434,
+        "Nose Y": 527,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 372,
+        "EAR": 2.1726073838908144,
+        "MAR": 69.9078636570178,
+        "Nose X": 493,
+        "Nose Y": 580,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 373,
+        "EAR": 1.8243100254331226,
+        "MAR": 7.128182473298687,
+        "Nose X": 293,
+        "Nose Y": 580,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 374,
+        "EAR": 2.11443624107578,
+        "MAR": 80.42923721657623,
+        "Nose X": 509,
+        "Nose Y": 556,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 375,
+        "EAR": 2.869200805201091,
+        "MAR": 8.159048070092835,
+        "Nose X": 512,
+        "Nose Y": 567,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 376,
+        "EAR": 1.8449989454302034,
+        "MAR": 11.840528083882425,
+        "Nose X": 474,
+        "Nose Y": 543,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 377,
+        "EAR": 1.7397964939757902,
+        "MAR": 15.862983703924783,
+        "Nose X": 332,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 378,
+        "EAR": 3.12761799371113,
+        "MAR": 3.233046875422392,
+        "Nose X": 531,
+        "Nose Y": 583,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 379,
+        "EAR": 2.2280271633413316,
+        "MAR": 11.80968355822332,
+        "Nose X": 307,
+        "Nose Y": 573,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 380,
+        "EAR": 2.1040941635733295,
+        "MAR": 16.60593510129885,
+        "Nose X": 512,
+        "Nose Y": 562,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 381,
+        "EAR": 1.9058661959525298,
+        "MAR": 25.72761460923426,
+        "Nose X": 474,
+        "Nose Y": 540,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 382,
+        "EAR": 2.7286641749813287,
+        "MAR": 99.10554058886618,
+        "Nose X": 484,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 383,
+        "EAR": 2.2780761669612324,
+        "MAR": 21.741684888743936,
+        "Nose X": 498,
+        "Nose Y": 611,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 384,
+        "EAR": 2.345894448971557,
+        "MAR": 14.453593852890453,
+        "Nose X": 467,
+        "Nose Y": 565,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 385,
+        "EAR": 3.543477976991003,
+        "MAR": 12.555015957776249,
+        "Nose X": 475,
+        "Nose Y": 514,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 386,
+        "EAR": 2.167784472041977,
+        "MAR": 46.424604526584574,
+        "Nose X": 533,
+        "Nose Y": 572,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 387,
+        "EAR": 1.7523114065021006,
+        "MAR": 52.896270690293115,
+        "Nose X": 495,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 388,
+        "EAR": 2.9027775239179925,
+        "MAR": 98.33134956667865,
+        "Nose X": 495,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 389,
+        "EAR": 2.001170070222738,
+        "MAR": 15.790028355863598,
+        "Nose X": 539,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 390,
+        "EAR": 2.103771825248384,
+        "MAR": 10.763594621045502,
+        "Nose X": 730,
+        "Nose Y": 640,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 391,
+        "EAR": 2.032272872163723,
+        "MAR": 111.87453137157465,
+        "Nose X": 501,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 392,
+        "EAR": 1.9275019232446655,
+        "MAR": 6.844098599139432,
+        "Nose X": 279,
+        "Nose Y": 593,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 393,
+        "EAR": 2.029999903500518,
+        "MAR": 109.28445223003736,
+        "Nose X": 504,
+        "Nose Y": 554,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 394,
+        "EAR": 2.060545467167299,
+        "MAR": 8.558066253340176,
+        "Nose X": 312,
+        "Nose Y": 597,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 395,
+        "EAR": 1.9088663548086975,
+        "MAR": 26.055619535359124,
+        "Nose X": 535,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 396,
+        "EAR": 2.0515742815635107,
+        "MAR": 12.646512689885697,
+        "Nose X": 598,
+        "Nose Y": 499,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 397,
+        "EAR": 2.1681738952180654,
+        "MAR": 37.14216126853285,
+        "Nose X": 502,
+        "Nose Y": 556,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 398,
+        "EAR": 1.7788809454705667,
+        "MAR": 3.703123078736441,
+        "Nose X": 284,
+        "Nose Y": 597,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 399,
+        "EAR": 1.7913032341650306,
+        "MAR": 17.290140949560403,
+        "Nose X": 595,
+        "Nose Y": 526,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 400,
+        "EAR": 3.297269398766031,
+        "MAR": 2.575200936081887,
+        "Nose X": 546,
+        "Nose Y": 551,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 401,
+        "EAR": 2.401156836844936,
+        "MAR": 1.8932621514459715,
+        "Nose X": 517,
+        "Nose Y": 443,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 402,
+        "EAR": 2.5249060747450827,
+        "MAR": 36.89743692908186,
+        "Nose X": 486,
+        "Nose Y": 593,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 403,
+        "EAR": 2.3071980791826077,
+        "MAR": Infinity,
+        "Nose X": 468,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 404,
+        "EAR": 2.248346107319236,
+        "MAR": 9.695964153451659,
+        "Nose X": 504,
+        "Nose Y": 607,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 405,
+        "EAR": 2.9731330597034105,
+        "MAR": 1.8630137084204286,
+        "Nose X": 551,
+        "Nose Y": 511,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 406,
+        "EAR": 2.1154783041607637,
+        "MAR": 47.1769600219187,
+        "Nose X": 538,
+        "Nose Y": 584,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 407,
+        "EAR": 1.8423965741723691,
+        "MAR": 63.16330465774419,
+        "Nose X": 711,
+        "Nose Y": 640,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 408,
+        "EAR": 1.7685791795130115,
+        "MAR": 27.042780236188715,
+        "Nose X": 502,
+        "Nose Y": 580,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 409,
+        "EAR": 2.504162177087788,
+        "MAR": 2.4206974325453054,
+        "Nose X": 615,
+        "Nose Y": 477,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 410,
+        "EAR": 2.79607656851498,
+        "MAR": 1.9651464290981815,
+        "Nose X": 503,
+        "Nose Y": 458,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 412,
+        "EAR": 2.5063168467195824,
+        "MAR": 3.7331839665552535,
+        "Nose X": 515,
+        "Nose Y": 518,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 413,
+        "EAR": 1.716192456567455,
+        "MAR": 4.857945263590655,
+        "Nose X": 301,
+        "Nose Y": 574,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 414,
+        "EAR": 2.126991246113263,
+        "MAR": 4.468807242902147,
+        "Nose X": 736,
+        "Nose Y": 640,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 415,
+        "EAR": 2.01943172852019,
+        "MAR": 77.10859373262913,
+        "Nose X": 489,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 416,
+        "EAR": 3.0717597037354922,
+        "MAR": 14.666760117190695,
+        "Nose X": 461,
+        "Nose Y": 643,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 417,
+        "EAR": 1.8522315800440405,
+        "MAR": 4.560204694780328,
+        "Nose X": 308,
+        "Nose Y": 577,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 418,
+        "EAR": 2.0359143879262427,
+        "MAR": 35.19754133137979,
+        "Nose X": 542,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 419,
+        "EAR": 1.8691895450885188,
+        "MAR": 11.596379526232448,
+        "Nose X": 473,
+        "Nose Y": 523,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 420,
+        "EAR": 2.0953636070506647,
+        "MAR": 49.64452875086376,
+        "Nose X": 508,
+        "Nose Y": 557,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 421,
+        "EAR": 1.9351150125483971,
+        "MAR": 10.699339005564894,
+        "Nose X": 734,
+        "Nose Y": 634,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 422,
+        "EAR": 2.5544409057458366,
+        "MAR": 1.871813976824764,
+        "Nose X": 498,
+        "Nose Y": 449,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 423,
+        "EAR": 1.8018947243897785,
+        "MAR": 31.735037497434597,
+        "Nose X": 500,
+        "Nose Y": 552,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 424,
+        "EAR": 2.4074748542635227,
+        "MAR": 4.145538978074747,
+        "Nose X": 521,
+        "Nose Y": 525,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 425,
+        "EAR": 2.5150153734215,
+        "MAR": 14.889421482237836,
+        "Nose X": 535,
+        "Nose Y": 553,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 426,
+        "EAR": 3.175900837711544,
+        "MAR": 10.152668211527464,
+        "Nose X": 483,
+        "Nose Y": 579,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 428,
+        "EAR": 2.4734575208638563,
+        "MAR": 2.30043198130285,
+        "Nose X": 614,
+        "Nose Y": 490,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 429,
+        "EAR": 2.012978307601704,
+        "MAR": 9.51739874562791,
+        "Nose X": 346,
+        "Nose Y": 537,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 430,
+        "EAR": 1.8558792480861994,
+        "MAR": 19.89587290864992,
+        "Nose X": 732,
+        "Nose Y": 633,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 431,
+        "EAR": 2.641899733840771,
+        "MAR": 17.554420733025218,
+        "Nose X": 463,
+        "Nose Y": 565,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 432,
+        "EAR": 2.863363878235395,
+        "MAR": 3.00482864750671,
+        "Nose X": 525,
+        "Nose Y": 573,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 433,
+        "EAR": 2.5929778712805813,
+        "MAR": 7.718718751519737,
+        "Nose X": 445,
+        "Nose Y": 520,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 434,
+        "EAR": 1.6514754161292242,
+        "MAR": 4.384460144379933,
+        "Nose X": 323,
+        "Nose Y": 551,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 435,
+        "EAR": 3.606567954626475,
+        "MAR": 7.32497001466802,
+        "Nose X": 528,
+        "Nose Y": 562,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 436,
+        "EAR": 2.315249019851776,
+        "MAR": 10.588335130455688,
+        "Nose X": 456,
+        "Nose Y": 550,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 437,
+        "EAR": 2.1492703231101316,
+        "MAR": 23.287021395427317,
+        "Nose X": 457,
+        "Nose Y": 560,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 438,
+        "EAR": 1.8857025649097265,
+        "MAR": 28.664628404969132,
+        "Nose X": 535,
+        "Nose Y": 571,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 439,
+        "EAR": 2.146590828765161,
+        "MAR": 21.87231087653253,
+        "Nose X": 501,
+        "Nose Y": 552,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 440,
+        "EAR": 1.7040416684234547,
+        "MAR": 12.083020485607825,
+        "Nose X": 331,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 441,
+        "EAR": 1.8486874513512825,
+        "MAR": 32.03678624864019,
+        "Nose X": 515,
+        "Nose Y": 555,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 442,
+        "EAR": 2.5459149013202342,
+        "MAR": 2.106921602318545,
+        "Nose X": 562,
+        "Nose Y": 498,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 443,
+        "EAR": 1.8089729589332595,
+        "MAR": 7.303973750037801,
+        "Nose X": 325,
+        "Nose Y": 581,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 444,
+        "EAR": 1.9320153751215503,
+        "MAR": 3.0880532346034957,
+        "Nose X": 289,
+        "Nose Y": 570,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 445,
+        "EAR": 1.989323249942,
+        "MAR": 28.817404937446714,
+        "Nose X": 485,
+        "Nose Y": 593,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 446,
+        "EAR": 2.235725514695721,
+        "MAR": 44.13493151123785,
+        "Nose X": 504,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 447,
+        "EAR": 1.9861479961985475,
+        "MAR": 12.733581765028928,
+        "Nose X": 457,
+        "Nose Y": 537,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 448,
+        "EAR": 1.687588703478194,
+        "MAR": 6.477672747156878,
+        "Nose X": 331,
+        "Nose Y": 546,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 449,
+        "EAR": 1.9555081240036079,
+        "MAR": 112.72316224007506,
+        "Nose X": 494,
+        "Nose Y": 565,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 450,
+        "EAR": 2.1965083507605527,
+        "MAR": 12.42269996934548,
+        "Nose X": 709,
+        "Nose Y": 648,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 451,
+        "EAR": 2.3252266514408553,
+        "MAR": 9.732138771875421,
+        "Nose X": 481,
+        "Nose Y": 567,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 453,
+        "EAR": 3.123505429312247,
+        "MAR": 9.376562367561045,
+        "Nose X": 542,
+        "Nose Y": 501,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 454,
+        "EAR": 2.0996928667666177,
+        "MAR": 17.62133009394733,
+        "Nose X": 462,
+        "Nose Y": 545,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 455,
+        "EAR": 2.75570518919453,
+        "MAR": 26.943904958382706,
+        "Nose X": 519,
+        "Nose Y": 572,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 456,
+        "EAR": 2.504631910889862,
+        "MAR": 23.251766113569982,
+        "Nose X": 720,
+        "Nose Y": 636,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 457,
+        "EAR": 2.095562094312104,
+        "MAR": 12.601237243457282,
+        "Nose X": 499,
+        "Nose Y": 567,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 458,
+        "EAR": 1.7848277384758329,
+        "MAR": 24.709869509324385,
+        "Nose X": 506,
+        "Nose Y": 556,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 459,
+        "EAR": 1.8766109173138985,
+        "MAR": 35.725569722690445,
+        "Nose X": 512,
+        "Nose Y": 558,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 460,
+        "EAR": 2.0182140896030276,
+        "MAR": 43.46738985412051,
+        "Nose X": 724,
+        "Nose Y": 634,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 461,
+        "EAR": 1.7246982906069492,
+        "MAR": 69.95431966286964,
+        "Nose X": 541,
+        "Nose Y": 576,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 462,
+        "EAR": 2.2906374256631783,
+        "MAR": 1.978978281912598,
+        "Nose X": 503,
+        "Nose Y": 445,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 463,
+        "EAR": 1.8036063266008515,
+        "MAR": 8.401768312144943,
+        "Nose X": 293,
+        "Nose Y": 575,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 464,
+        "EAR": 1.6825675814729832,
+        "MAR": 27.528613091756544,
+        "Nose X": 347,
+        "Nose Y": 539,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 465,
+        "EAR": 2.2729141114280913,
+        "MAR": 99.00724305615483,
+        "Nose X": 463,
+        "Nose Y": 566,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 466,
+        "EAR": 2.417872835791959,
+        "MAR": 5.3649269248348865,
+        "Nose X": 457,
+        "Nose Y": 513,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 467,
+        "EAR": 2.2452012132527495,
+        "MAR": 9.581108632362001,
+        "Nose X": 462,
+        "Nose Y": 519,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 468,
+        "EAR": 2.150410030008535,
+        "MAR": 53.210711201856874,
+        "Nose X": 506,
+        "Nose Y": 554,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 469,
+        "EAR": 1.9191100550765812,
+        "MAR": 7.144737266349698,
+        "Nose X": 724,
+        "Nose Y": 638,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 470,
+        "EAR": 1.9178380165906437,
+        "MAR": 5.276633591907058,
+        "Nose X": 306,
+        "Nose Y": 588,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 471,
+        "EAR": 1.9852776028000094,
+        "MAR": 5.840449989968627,
+        "Nose X": 302,
+        "Nose Y": 579,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 472,
+        "EAR": 1.81020222710203,
+        "MAR": 5.0606641190994806,
+        "Nose X": 324,
+        "Nose Y": 548,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 473,
+        "EAR": 2.234885031405445,
+        "MAR": 16.39293201238776,
+        "Nose X": 725,
+        "Nose Y": 636,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 474,
+        "EAR": 2.0911494801479895,
+        "MAR": Infinity,
+        "Nose X": 539,
+        "Nose Y": 596,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 475,
+        "EAR": 2.979991881342614,
+        "MAR": 1.882635354121857,
+        "Nose X": 561,
+        "Nose Y": 501,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 476,
+        "EAR": 1.9191832081091618,
+        "MAR": 13.715204408972467,
+        "Nose X": 479,
+        "Nose Y": 565,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 477,
+        "EAR": 1.8748440073357346,
+        "MAR": 4.203221693523828,
+        "Nose X": 289,
+        "Nose Y": 569,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 478,
+        "EAR": 2.2658129187203597,
+        "MAR": 17.970906978802244,
+        "Nose X": 690,
+        "Nose Y": 618,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 479,
+        "EAR": 2.082949546913926,
+        "MAR": 20.35485340099975,
+        "Nose X": 543,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 480,
+        "EAR": 1.821522888103504,
+        "MAR": 15.91399965086051,
+        "Nose X": 397,
+        "Nose Y": 534,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 481,
+        "EAR": 2.0483635921036214,
+        "MAR": 18.394529449894357,
+        "Nose X": 543,
+        "Nose Y": 574,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 482,
+        "EAR": 2.6778271654552217,
+        "MAR": 44.65562010708826,
+        "Nose X": 471,
+        "Nose Y": 520,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 483,
+        "EAR": 2.9737908277617735,
+        "MAR": 10.542570216537438,
+        "Nose X": 460,
+        "Nose Y": 546,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 484,
+        "EAR": 1.9391856966440453,
+        "MAR": 25.825143761835626,
+        "Nose X": 486,
+        "Nose Y": 562,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 485,
+        "EAR": 2.099099066858512,
+        "MAR": 17.243208549574923,
+        "Nose X": 440,
+        "Nose Y": 527,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 486,
+        "EAR": 2.343968013677143,
+        "MAR": 3.3404156147488826,
+        "Nose X": 364,
+        "Nose Y": 608,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 487,
+        "EAR": 2.8330909640456388,
+        "MAR": 2.704607115165578,
+        "Nose X": 528,
+        "Nose Y": 572,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 488,
+        "EAR": 3.038700720165986,
+        "MAR": 13.544953877305968,
+        "Nose X": 548,
+        "Nose Y": 574,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 489,
+        "EAR": 2.255609537726726,
+        "MAR": 15.48655287461987,
+        "Nose X": 480,
+        "Nose Y": 591,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 490,
+        "EAR": 2.519636296595742,
+        "MAR": 2.224467140076636,
+        "Nose X": 508,
+        "Nose Y": 477,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 491,
+        "EAR": 2.2835169285175683,
+        "MAR": 4.887779061752406,
+        "Nose X": 538,
+        "Nose Y": 525,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 492,
+        "EAR": 2.899464273290841,
+        "MAR": 4.234524775691027,
+        "Nose X": 527,
+        "Nose Y": 581,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 493,
+        "EAR": 2.515378231027384,
+        "MAR": 3.8294439366613386,
+        "Nose X": 527,
+        "Nose Y": 583,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 494,
+        "EAR": 2.1780347141614276,
+        "MAR": 17.861267580070137,
+        "Nose X": 533,
+        "Nose Y": 589,
+        "Label": "tidak ngantuk"
+    },
+    {
+        "Gambar": 495,
+        "EAR": 1.9543892269620093,
+        "MAR": 49.34835287101369,
+        "Nose X": 490,
+        "Nose Y": 543,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 496,
+        "EAR": 1.9474045727076965,
+        "MAR": 14.9107866580871,
+        "Nose X": 497,
+        "Nose Y": 555,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 497,
+        "EAR": 1.9830886489567003,
+        "MAR": 22.92657687008556,
+        "Nose X": 477,
+        "Nose Y": 558,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 498,
+        "EAR": 1.719790539239538,
+        "MAR": 5.5581155284022365,
+        "Nose X": 297,
+        "Nose Y": 585,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 499,
+        "EAR": 2.616135637143727,
+        "MAR": 102.29716669864911,
+        "Nose X": 443,
+        "Nose Y": 521,
+        "Label": "ngantuk"
+    },
+    {
+        "Gambar": 500,
+        "EAR": 2.3659932673654445,
+        "MAR": 27.488695386824233,
+        "Nose X": 505,
+        "Nose Y": 559,
+        "Label": "ngantuk"
+    }
+]
